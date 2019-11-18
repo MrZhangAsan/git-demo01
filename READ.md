@@ -14,7 +14,10 @@
 2. 迪丽热巴
 3. 古力娜扎
 4. 新垣结衣
-   
+
+我的网站是[我的官网](https://../index.html)
+
+![一张图片](1.jpg)
 
 ```javascript
 console.log('hello')
